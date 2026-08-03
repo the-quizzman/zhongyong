@@ -8,7 +8,7 @@ title_original: 中庸
 author: Truyền thống Nho gia
 language: vi
 category: nho-gia
-chapter_count: 33
+chapter_count: 1
 chapter_glob: chapters/*.md
 status: draft
 
@@ -17,8 +17,8 @@ licenses:
   bronzemirror_en: CC-BY-SA-4.0
 
 sources:
+  primary: https://github.com/garychowcmu/daizhigev20
   bronzemirror: https://thebronzemirror.com/
-  primary: TBD
 
 publish:
   base_url: https://wiki.quizzman.com
